@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_all_currences"
+        android:icon="@drawable/ic_all_currencies"
+        android:title="All Currencies"
+        />
+
+    <item
+        android:id="@+id/ic_my_currences"
+        android:icon="@drawable/ic_my_currencies"
+        android:title="My Currencies"
+        />
+
+</menu>
